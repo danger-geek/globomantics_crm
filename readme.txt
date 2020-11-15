@@ -6,3 +6,5 @@ msking changes to files in Github is really dangerous
 
 > Note: version 2 will be way bettter
 
+messing up the readme so I can see merge conflicts
+
